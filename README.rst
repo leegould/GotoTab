@@ -6,8 +6,9 @@ Package Installation
 --------------------
 From Git:
 
-Bring up a git-enabled command line in the Packages/ folder of your Sublime user folder, and execute the following:
-> git clone git://github.com/leegould/GotoTab.git
+* Bring up a git-enabled command line in the Packages/ folder of your Sublime user folder, and execute the following:
+
+  > git clone git://github.com/leegould/GotoTab.git
 
 
 Install manually:
