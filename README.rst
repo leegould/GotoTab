@@ -24,4 +24,4 @@ Install manually:
 
 Defaults
 --------
-* The default key bindings set ctrl-1 through ctrl-0 as tabs 1 through 10
+* The default key bindings (windows) set ctrl-1 through ctrl-0 as tabs 1 through 10
