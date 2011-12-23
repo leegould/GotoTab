@@ -25,3 +25,12 @@ Install manually:
 Defaults
 --------
 * The default key bindings (windows) set ctrl-1 through ctrl-0 as tabs 1 through 10
+
+
+Usage
+-----
+The plugin allows you to switch to the numbered tab via a key binding. Currently bindings are only included for windows.
+
+After you have installed the plugin; an example of use, if you have 3 files open in 3 tabs, pressing ctrl+1 will
+switch to the first tab, ctrl+2 will switch to the second tab and ctrl+3 will switch to the third tab. ctrl+4 will
+do nothing until you have a fourth tab open.
