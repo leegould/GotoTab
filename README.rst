@@ -26,11 +26,7 @@ Install manually:
 
 Defaults
 --------
-<<<<<<< HEAD
-* The default windows key bindings set ctrl-1 through ctrl-8 as tabs 1 through 8, with ctrl-9 going to the last tab (as in common browsers)
-=======
 * The default windows & linux key bindings set ctrl-1 through ctrl-8 as tabs 1 through 8, with ctrl-9 going to the last tab (as in common browsers)
->>>>>>> a52d97352b5c439b43c7d4179f7ab2e37d3dcf33
 * The default osx key bindings set cmd-1 through cmd-8 as tabs 1 through 8, with cmd-9 going to the last tab (as in common browsers)
 
 Usage
@@ -40,3 +36,5 @@ The plugin allows you to switch to the numbered tab via a key binding. Currently
 After you have installed the plugin; an example of use, if you have 3 files open in 3 tabs, pressing ctrl+1 (windows) / 
 cmd-1 (OSX) will switch to the first tab, ctrl+2/cmd+2 will switch to the second tab and ctrl+3/cmd+3 will switch to the third tab. 
 ctrl+4/cmd+4 will do nothing until you have a fourth tab open.
+
+This plugin now has support for groups, if you have files in a group, then the shortcuts will look for the first file tab in that group.
