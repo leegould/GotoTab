@@ -26,7 +26,11 @@ Install manually:
 
 Defaults
 --------
+<<<<<<< HEAD
 * The default windows key bindings set ctrl-1 through ctrl-8 as tabs 1 through 8, with ctrl-9 going to the last tab (as in common browsers)
+=======
+* The default windows & linux key bindings set ctrl-1 through ctrl-8 as tabs 1 through 8, with ctrl-9 going to the last tab (as in common browsers)
+>>>>>>> a52d97352b5c439b43c7d4179f7ab2e37d3dcf33
 * The default osx key bindings set cmd-1 through cmd-8 as tabs 1 through 8, with cmd-9 going to the last tab (as in common browsers)
 
 Usage
