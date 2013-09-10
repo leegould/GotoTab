@@ -1,6 +1,6 @@
 Description
 -----------
-Lets you open tabs tab number # counting from the left in Sublime Text 2. See: http://www.sublimetext.com/ 
+Lets you open tabs tab number # counting from the left in Sublime Text 2/3. See: http://www.sublimetext.com/ 
 
 Package Installation
 --------------------
